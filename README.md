@@ -1,2 +1,2 @@
 # LeetcodeExercises
-Exercises from Leetcode web page
+Exercises from Leetcode web page in C++.
